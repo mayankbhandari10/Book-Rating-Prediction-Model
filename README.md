@@ -1,5 +1,5 @@
 ### Book-Rating-Prediction-Model
-This is a Machine learning project for the DSTI Python Labs 
+This is a Machine learning project for the DSTI Python Labs. In this Jupyter Notebook, we performed Exploratory Data Analysis (EDA) and predicted the average ratings of books using Machine Learning algorithms. We used the Goodreads Books dataset and the following tools and technologies:
 
 ## Project Requirements
 
